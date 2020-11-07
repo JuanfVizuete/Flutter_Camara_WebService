@@ -1,4 +1,4 @@
-## Episode 199 - Flutter Firebase Storage Uploads
+## Flutter Firebase Storage Uploads
 
 Capture, crop, and upload image files to a Firebase Cloud Storage bucket from a Flutter app.  
 
